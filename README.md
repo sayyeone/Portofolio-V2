@@ -2,7 +2,7 @@
 
 A modern, elegant personal portfolio website showcasing web development projects. Clean design with gradient effects, smooth animations, and fully responsive layout.
 
-**Live Demo:** [Portfolio-V2.github.io](https://sayyeone.github.io/Portfolio-V2)
+**Live Demo:** [Portfolio-V2.github.io](https://sayyeone.github.io/Portofolio-V2/)
 
 ## What's This?
 
