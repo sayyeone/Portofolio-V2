@@ -244,14 +244,9 @@ Add these to your `index.html` for better SEO:
 
 ## Credits
 
-* Design by Adisty Fatika Ardani
 * Tailwind CSS for utility classes
 * Inter font by Google Fonts
 * Icons from Heroicons (via SVG)
-
-## License
-
-Feel free to use this template for your own portfolio. Attribution appreciated but not required.
 
 ---
 
